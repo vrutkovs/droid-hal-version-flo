@@ -4,7 +4,7 @@
 %define rpm_vendor asus
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Asus
-%define device_pretty Nexus 7 (2013)
+%define device_pretty Nexus 7 (2013 LTE)
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator 0
 %define have_led 1
